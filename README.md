@@ -1,6 +1,6 @@
 # InstaOunce
 ---
-_InstaOunce (Shron's App) is a social media application. With great aesthetics and features, this app allows you to post pictures, connect with people and even chat with them. It is built with Flutter and Firebase to provide good animations and real time updates_
+_InstaOunce (Shron's App) is a social media application. With great aesthetics and features, this app allows you to post pictures, connect with people and even chat with them. It is built with *Flutter* and *Firebase* to provide good animations and real time updates_
 
 ##Images
 ---
