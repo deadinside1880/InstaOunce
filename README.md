@@ -1,16 +1,19 @@
-# shron
+# InstaOunce
+---
+_InstaOunce (Shron's App) is a social media application. With great aesthetics and features, this app allows you to post pictures, connect with people and even chat with them. It is built with Flutter and Firebase to provide good animations and real time updates_
 
-A new Flutter project.
+##Images
+---
 
 ## Getting Started
+---
+1. Get all the dependencies in `pubspec.yaml` by :
+```
+  flutter pub get
+```
+2. Create your Firebase application and connect it to your flutter application (Firebase tells you how)
+3. Run the app on your preferred emulator or device
 
-This project is a starting point for a Flutter application.
+Congratulations! you can now use this app and hace fun!!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[^first]: Disclaimer: this app was created for personal use and is a non-profit app. The name chosen (InstaOunce) is for comedic purposes.
