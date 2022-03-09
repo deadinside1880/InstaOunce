@@ -16,4 +16,4 @@ _InstaOunce (Shron's App) is a social media application. With great aesthetics a
 
 Congratulations! you can now use this app and hace fun!!
 
-[^first]: Disclaimer: this app was created for personal use and is a non-profit app. The name chosen (InstaOunce) is for comedic purposes.
+[^first]: Footnote: Disclaimer: this app was created for personal use and is a non-profit app. The name chosen (InstaOunce) is for comedic purposes.
