@@ -1,12 +1,12 @@
 # InstaOunce
----
+
 _InstaOunce (Shron's App) is a social media application. With great aesthetics and features, this app allows you to post pictures, connect with people and even chat with them. It is built with **Flutter** and **Firebase** to provide good animations and real time updates_
 
 ##Images
----
+
 
 ## Getting Started
----
+
 1. Get all the dependencies in `pubspec.yaml` by :
 ```
   flutter pub get
