@@ -19,6 +19,6 @@ _InstaOunce (Shron's App) is a social media application. With great aesthetics a
 2. Create your Firebase application and connect it to your flutter application (Firebase tells you how)
 3. Run the app on your preferred emulator or device
 
-Congratulations! you can now use this app and hace fun!!
+Congratulations! you can now use this app and have fun!!
 
 [^first]: Footnote: Disclaimer: this app was created for personal use and is a non-profit app. The name chosen (InstaOunce) is for comedic purposes.
