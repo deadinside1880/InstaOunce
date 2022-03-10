@@ -3,7 +3,7 @@
 _InstaOunce (Shron's App) is a social media application. With great aesthetics and features, this app allows you to post pictures, connect with people and even chat with them. It is built with **Flutter** and **Firebase** to provide good animations and real time updates_
 
 ## Images
-![LoginScreen](https://github.com/deadinside1880/InstaOunce/tree/main/images/LoginScreen.jpg)
+![LoginScreen](https://github.com/deadinside1880/InstaOunce/tree/main/images/LoginScreen.jpeg)
 
 ## Getting Started
 
