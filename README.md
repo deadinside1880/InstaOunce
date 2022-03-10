@@ -4,6 +4,8 @@ _InstaOunce (Shron's App) is a social media application. With great aesthetics a
 
 ## Images
 <img src="./images/LoginScreen.jpeg" width="150" align='center' />
+<img src="./images/SearchScreen.jpeg" width="150" align='center' />
+<img src="./images/ChatScreen.jpeg" width="150" align='center' />
 
 ## Getting Started
 
