@@ -74,10 +74,11 @@ class _ChatBubbleState extends State<ChatBubble> {
                       radius: 15,
                     ),
                     Container(
+                        margin: const EdgeInsets.symmetric(horizontal: 10),
                         padding: const EdgeInsets.all(7),
                         decoration: BoxDecoration(
                             color: blueColor,
-                            borderRadius: BorderRadius.circular(5)),
+                            borderRadius: BorderRadius.circular(10)),
                         //margin: const EdgeInsets.only(top: 6),
                         child: Text(widget.text))
                   ],

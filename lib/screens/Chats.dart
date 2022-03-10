@@ -76,6 +76,9 @@ class _ChatState extends State<Chat> {
                     backgroundImage: NetworkImage(_user!.photoURL),
                     radius: 15,
                   ),
+                  SizedBox(
+                    width: 15,
+                  ),
                   Text(
                     _user!.username,
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
